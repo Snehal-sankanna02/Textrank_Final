@@ -25,7 +25,7 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 # In[2]:
 
 
-st.set_page_config(page_title='InNews: A Summarised News📰 Portal', page_icon="C:\\Users\\Snehal Sankanna\\OneDrive\\Desktop\\Meta\\newspaper.ico")
+st.set_page_config(page_title='InNews: A Summarised News📰 Portal', page_icon="newspaper.ico")
 
 
 # In[3]:
